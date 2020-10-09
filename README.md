@@ -5,5 +5,5 @@
 
 
 ![C/C++ CI](https://github.com/99002529/Genesis_task/workflows/C/C++%20CI/badge.svg)
-![C/C++ CI](https://github.com/99002529/Genesis_task/workflows/C/C++%20CI/badge.svg)
+![cppcheck-action](https://github.com/99002511/SDLC/workflows/cppcheck-action/badge.svg)
 
